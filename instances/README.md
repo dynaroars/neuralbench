@@ -25,7 +25,7 @@ Benchmarks:
 - [x] Cifar Biasfield
 - [x] Cifar100_tinyimagenet
 - [x] Cifar2020
-- [ ] Collins_rul_cnn
+- [x] Collins_rul_cnn
 - [ ] dist_shift
 - [ ] mnist_fc
 - [ ] oval21
