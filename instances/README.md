@@ -6,8 +6,8 @@ Benchmarks:
 | Acas XU               | FC + ReLU             | 13k           | 5               | 0-20%     |
 | Carvana UNet          | Complex U-Net         | 150k - 330k   | 5828            |           |
 | Cifar Biasfield       | Conv + ReLU           | 363k          | 16              |           |
-| Cifar100_tinyimagenet | Conv + ReLU           |               | 3*32*32 3*56*56 |           |
-| Cifar2020             | Conv + ReLU           |               | 3*32*32         |           |
+| Cifar100_tinyimagenet | Conv + ReLU           |               | 3072            |           |
+| Cifar2020             | Conv + ReLU           |               | 3072            |           |
 | Collins_rul_cnn       | Conv + ReLU           | 60k - 262k    | 400 - 800       |           |
 | dist_shift            | FC + ReLU, Sigmoid    | 342k - 855k   | 792             | 98.9%     |
 | mnist_fc              | FC + ReLU             | 270k - 530k   | 784             |           |
