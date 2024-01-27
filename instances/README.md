@@ -14,8 +14,8 @@ Benchmarks:
 | oval21                | Conv + ReLU           | 54k - 214k    | 3072            |           |
 | reach_prob_density    | FC + ReLU             | 1.2k - 9k     | 3 - 14          |           |
 | rl_benchmarks         | FC + ReLU             | 4.6k - 70k    | 4 - 8           |           |
-| SRI_ResNet_A          | ResNet(Conv + ReLU)   | 345k          | 11 k            |           |
-| SRI_ResNet_B          | ResNet(Conv + ReLU)   | 345k          | 11 k            |           |
+| SRI_ResNet_A          | ResNet(Conv + ReLU)   | 345k          |            |           |
+| SRI_ResNet_B          | ResNet(Conv + ReLU)   | 345k          |            |           |
 
 
 
