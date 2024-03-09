@@ -16,3 +16,17 @@ We leverage the fact that local robustness properties are a pseudo-canonical for
 Next we run two state-of-the-art verifiers: $\alpha\beta$-CROWN and MN-BaB, for each of the `38 * 16 = 608` combinations of DNN and property with a small timeout of `200` seconds. 
 Any problem that could be solved within that timeout was removed from the benchmark as "too easy". 
 This resulted in `90` verification problems that not only are more computationally challenging than benchmarks used in other studies, but also exhibit significant architectural diversity. 
+
+## :page_with_curl: Publication
+
+Hai Duong, Dong Xu, ThanhVu Nguyen, Matthew Dwyer. [**Harnessing Neuron Stability to Improve DNN Verification**](https://arxiv.org/pdf/2401.14412.pdf), Foundations of Software Engineering (FSE), 18 pages (to appear), 2024.
+```
+@misc{duong2024harnessing,
+      title={Harnessing Neuron Stability to Improve DNN Verification}, 
+      author={Hai Duong and Dong Xu and ThanhVu Nguyen and Matthew B. Dwyer},
+      year={2024},
+      eprint={2401.14412},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
